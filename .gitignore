@@ -7,3 +7,5 @@ node_modules
 /Arrays Types/node_modules
 /Working With Tuples/node_modules
 /Working With Enums/node_modules
+/Union Types/node_modules
+/Literal Types/node_modules
