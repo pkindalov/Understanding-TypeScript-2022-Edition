@@ -10,3 +10,4 @@ node_modules
 /Union Types/node_modules
 /Literal Types/node_modules
 /Type Aliases(Custom Types)/node_modules
+/Function Return Types And Void/node_modules
