@@ -11,3 +11,4 @@ node_modules
 /Literal Types/node_modules
 /Type Aliases(Custom Types)/node_modules
 /Function Return Types And Void/node_modules
+/Functions As Types/node_modules
